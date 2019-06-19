@@ -213,6 +213,55 @@ hr {
 	font-size: 0.8em;
 }
 
+.info_film_page {
+	margin-top: 2%;
+	margin-bottom: 4%;
+}
+
+.info_film_page .label {
+	font-size: 1.2em;
+}
+
+.info_film_page .value {
+	font-size: 1em;
+	color: #49945a;
+	margin-right: 3%;
+}
+
+
+.description_film {
+	margin-bottom: 15%;
+
+}
+
+.description_film img {
+	float: left;
+	margin-right: 2%;
+	border-radius: 5px;
+	border: solid 5px #dad7d5;
+}
+
+
+.reviews {
+	margin-bottom: 4%;
+	font-size: 0.9em;
+}
+
+.reviews .review_name {
+	background-color: #7268ad;
+	color: white;
+	padding: 1%;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+.reviews .review_text {
+	padding-top: 2%;
+	padding-bottom: 7%;
+	padding-left: 2%;
+}
+
+
 
 
 .footer {
